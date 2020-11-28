@@ -2,7 +2,11 @@
 
 /* -------------------  MOBILE  --------------------- */
 header {
-  background-image: url('https://via.placeholder.com/1150');
+  background-image: url('https://picsum.photos/id/190/1900/1150?grayscale');
+}
+
+header.down {
+  background-image: url('https://picsum.photos/id/1028/1900/1150');
 }
 
 main#two-columns {
